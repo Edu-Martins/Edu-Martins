@@ -1,6 +1,6 @@
 ## Olá! Eu sou Eduardo Martins 
 
-- 🔭 Hoje estou desempregado - [Procurando estágio]
+- 🔭 Procurando estágio
 - 🌱 Estudando JavaScript,HTML,Nodejs ...
 - 🎓 Graduando 4° Semestre - Bacharel Sistemas de Informação
 
