@@ -1,7 +1,7 @@
 ## Olá! Eu sou Eduardo Martins 
 
 - 🌱 Estudando JavaScript,HTML,Nodejs ...
-- 🎓 Graduando 6° Semestre - Bacharel Sistemas de Informação
+- 🎓 Graduando 7° Semestre - Bacharel Sistemas de Informação
 
   <div>
   <a href="https://github.com/Edu-Martins">
